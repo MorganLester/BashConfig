@@ -3,3 +3,4 @@
 . ~/config/bash_completion
 . ~/config/colour.sh
 . ~/config/.bash_alias
+
